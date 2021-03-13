@@ -44,7 +44,7 @@ Response
             "description": {model_description},
             "created": {model_creation_timestamp},
             "last_train": {model_last_train_timestamp},
-            "classes": [
+            "classes": [
                 {
                     "id": {class_id},
                     "name": {class_name},
